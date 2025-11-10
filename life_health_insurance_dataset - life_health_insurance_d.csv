@@ -1,0 +1,201 @@
+Customer_ID,Age,Gender,Marital_Status,Occupation,Income_Level,Education,Location,Family_Size,Health_Condition,Smoking,Alcohol,Claim_History,Lifestyle,Risk_Appetite,Travel_Frequency,Coverage_Amount,Premium_Budget,Tenure_Preference,Addons_Interested,Recommended_Product
+CUST0001,64,Female,Divorced,Self-Employed,High,Doctorate,Rural,6,Hypertension,Yes,No,Yes,Active,Low,Rarely,1679486,46115,25,Hospital Cash,Senior Citizen
+CUST0002,47,Male,Single,Business,Medium,High School,Rural,5,None,Yes,Yes,Yes,Active,High,Frequent,916370,21329,25,Accidental Cover,Individual
+CUST0003,63,Female,Single,Student,Low,Postgraduate,Semi-Urban,4,Diabetes,Yes,No,Yes,Moderate,Low,Frequent,1804255,20839,25,Accidental Cover,Critical Illness
+CUST0004,24,Male,Single,Self-Employed,Medium,Graduate,Rural,3,Hypertension,Yes,Yes,No,Sedentary,Medium,Rarely,266264,36290,10,Maternity,Family Floater
+CUST0005,51,Female,Widowed,Student,High,Doctorate,Rural,3,Diabetes,No,Yes,No,Sedentary,Medium,Often,1512942,47169,25,None,Family Floater
+CUST0006,62,Male,Widowed,Salaried,Low,Postgraduate,Rural,5,Cancer,No,Yes,No,Moderate,Medium,Frequent,1110107,37856,20,None,Senior Citizen
+CUST0007,60,Male,Single,Self-Employed,Low,Doctorate,Urban,2,Diabetes,Yes,No,Yes,Moderate,Low,Often,1569101,35432,25,Maternity,Family Floater
+CUST0008,44,Female,Divorced,Self-Employed,High,High School,Rural,5,Asthma,Yes,No,Yes,Active,High,Rarely,951181,29614,10,Critical Illness,Senior Citizen
+CUST0009,40,Female,Single,Business,Medium,High School,Rural,4,Hypertension,No,No,Yes,Moderate,High,Frequent,1034198,33303,10,Critical Illness,Critical Illness
+CUST0010,25,Male,Married,Salaried,High,Postgraduate,Rural,2,Cancer,Yes,Yes,No,Sedentary,Low,Often,1476218,10837,10,Hospital Cash,Critical Illness
+CUST0011,67,Male,Single,Salaried,High,Graduate,Rural,2,Heart Disease,No,Yes,No,Active,High,Frequent,766171,34541,25,Accidental Cover,Family Floater
+CUST0012,46,Male,Widowed,Self-Employed,Low,Graduate,Semi-Urban,2,None,Yes,No,No,Sedentary,Low,Frequent,343506,35482,25,Hospital Cash,Senior Citizen
+CUST0013,20,Female,Married,Student,Low,Graduate,Urban,6,Asthma,Yes,No,No,Moderate,Medium,Rarely,1177170,14533,10,Accidental Cover,Family Floater
+CUST0014,24,Female,Widowed,Self-Employed,Low,Doctorate,Urban,6,None,No,Yes,No,Active,Medium,Often,774706,36491,20,Accidental Cover,Individual
+CUST0015,28,Male,Divorced,Self-Employed,Medium,Doctorate,Rural,6,Hypertension,No,No,No,Moderate,High,Frequent,331028,30418,25,Critical Illness,Family Floater
+CUST0016,53,Female,Married,Student,High,Postgraduate,Semi-Urban,4,Asthma,Yes,No,No,Moderate,Low,Frequent,1653674,36031,10,Maternity,Individual
+CUST0017,45,Male,Divorced,Self-Employed,High,Doctorate,Rural,4,Hypertension,No,No,Yes,Active,Medium,Rarely,1989943,6689,25,Maternity,Senior Citizen
+CUST0018,54,Female,Single,Business,High,Doctorate,Rural,1,Asthma,Yes,No,No,Moderate,Low,Frequent,210090,21066,20,Hospital Cash,Individual
+CUST0019,55,Female,Divorced,Self-Employed,High,Graduate,Rural,4,Diabetes,No,Yes,Yes,Moderate,High,Frequent,718898,24447,10,Maternity,Family Floater
+CUST0020,62,Male,Widowed,Business,High,High School,Urban,4,None,Yes,Yes,Yes,Active,High,Frequent,1274157,8726,25,Accidental Cover,Family Floater
+CUST0021,44,Male,Divorced,Retired,Low,High School,Rural,1,Heart Disease,Yes,No,Yes,Moderate,High,Often,842456,34663,15,None,Individual
+CUST0022,25,Male,Married,Retired,Medium,Doctorate,Rural,2,Heart Disease,Yes,No,Yes,Sedentary,Medium,Often,1503242,27164,10,Critical Illness,Senior Citizen
+CUST0023,50,Female,Divorced,Retired,Low,High School,Rural,1,Cancer,No,No,No,Sedentary,High,Frequent,1204958,16907,5,Maternity,Senior Citizen
+CUST0024,32,Female,Single,Business,Low,High School,Rural,6,Asthma,No,Yes,Yes,Sedentary,Medium,Rarely,1221285,35165,25,Maternity,Senior Citizen
+CUST0025,25,Female,Single,Retired,High,Doctorate,Semi-Urban,2,Asthma,Yes,No,No,Sedentary,Medium,Rarely,455328,47908,5,Hospital Cash,Individual
+CUST0026,47,Female,Single,Business,Medium,Graduate,Urban,4,Heart Disease,Yes,No,Yes,Sedentary,Low,Rarely,1987122,24187,10,None,Senior Citizen
+CUST0027,23,Female,Married,Student,High,Doctorate,Semi-Urban,2,Diabetes,Yes,Yes,Yes,Active,Medium,Frequent,1123973,21320,10,Accidental Cover,Senior Citizen
+CUST0028,26,Female,Single,Business,Medium,Doctorate,Semi-Urban,2,Cancer,Yes,No,No,Sedentary,Medium,Rarely,1790930,44699,20,Accidental Cover,Critical Illness
+CUST0029,22,Female,Divorced,Retired,Medium,Doctorate,Urban,6,Diabetes,No,No,Yes,Moderate,Medium,Rarely,1831575,47417,5,Critical Illness,Critical Illness
+CUST0030,38,Male,Single,Self-Employed,Medium,High School,Urban,4,Diabetes,Yes,No,Yes,Moderate,High,Often,1260157,27919,15,Critical Illness,Senior Citizen
+CUST0031,21,Female,Divorced,Salaried,High,Graduate,Semi-Urban,5,None,Yes,Yes,Yes,Moderate,High,Rarely,727171,39613,15,Critical Illness,Family Floater
+CUST0032,57,Male,Married,Student,Medium,Doctorate,Urban,3,Diabetes,No,No,No,Moderate,Medium,Often,1968253,17335,20,Critical Illness,Individual
+CUST0033,25,Male,Married,Student,High,High School,Urban,2,Hypertension,Yes,No,No,Moderate,Medium,Frequent,706380,19112,25,Hospital Cash,Senior Citizen
+CUST0034,65,Female,Married,Business,High,Doctorate,Semi-Urban,4,Asthma,Yes,Yes,No,Sedentary,Medium,Frequent,1540877,7367,25,Hospital Cash,Critical Illness
+CUST0035,23,Female,Single,Retired,High,Postgraduate,Urban,4,None,Yes,Yes,No,Sedentary,High,Frequent,267511,20057,10,Maternity,Family Floater
+CUST0036,61,Male,Married,Self-Employed,High,High School,Rural,4,Diabetes,No,Yes,Yes,Sedentary,Medium,Frequent,1428204,16903,10,Maternity,Senior Citizen
+CUST0037,41,Female,Widowed,Business,Low,Postgraduate,Urban,1,None,No,No,No,Active,High,Frequent,876772,20197,5,Accidental Cover,Critical Illness
+CUST0038,24,Female,Married,Retired,Medium,Postgraduate,Rural,1,Cancer,Yes,Yes,No,Active,Medium,Rarely,1498050,36131,15,None,Critical Illness
+CUST0039,38,Male,Divorced,Self-Employed,Medium,Graduate,Urban,6,Diabetes,Yes,Yes,Yes,Moderate,Low,Often,1260112,39695,15,Hospital Cash,Individual
+CUST0040,21,Female,Divorced,Business,High,High School,Semi-Urban,6,Heart Disease,Yes,Yes,No,Active,Low,Frequent,865255,8973,20,Accidental Cover,Senior Citizen
+CUST0041,55,Male,Married,Retired,Medium,Postgraduate,Rural,6,Cancer,No,No,No,Sedentary,High,Often,1351452,44751,10,Hospital Cash,Senior Citizen
+CUST0042,56,Male,Divorced,Salaried,Low,High School,Urban,6,None,No,Yes,No,Sedentary,Medium,Frequent,1156531,19962,10,None,Senior Citizen
+CUST0043,63,Male,Widowed,Business,Low,Doctorate,Urban,5,Heart Disease,No,No,No,Active,Low,Often,1280870,43239,20,Maternity,Critical Illness
+CUST0044,49,Male,Widowed,Business,Medium,High School,Urban,6,Cancer,No,No,No,Active,Low,Frequent,1273055,46468,10,Critical Illness,Individual
+CUST0045,47,Female,Widowed,Retired,High,Graduate,Semi-Urban,6,Cancer,Yes,No,No,Sedentary,High,Frequent,1948829,37940,15,Hospital Cash,Individual
+CUST0046,24,Male,Divorced,Self-Employed,Low,Postgraduate,Urban,5,Asthma,No,Yes,Yes,Moderate,Low,Often,1180528,25141,25,Accidental Cover,Senior Citizen
+CUST0047,19,Male,Married,Self-Employed,Medium,Graduate,Urban,2,Cancer,Yes,Yes,No,Active,Medium,Frequent,770490,40853,20,Critical Illness,Senior Citizen
+CUST0048,32,Male,Widowed,Student,High,High School,Rural,5,Hypertension,Yes,No,No,Moderate,Low,Often,777658,16434,10,None,Family Floater
+CUST0049,45,Female,Single,Salaried,High,Doctorate,Semi-Urban,1,Cancer,Yes,Yes,No,Moderate,Medium,Often,1069148,38956,25,Critical Illness,Family Floater
+CUST0050,21,Female,Widowed,Self-Employed,High,Graduate,Urban,2,Asthma,Yes,No,No,Sedentary,Medium,Frequent,1375018,24369,5,Accidental Cover,Critical Illness
+CUST0051,54,Female,Widowed,Business,Medium,Doctorate,Semi-Urban,1,Asthma,No,No,No,Sedentary,Low,Rarely,390761,31238,15,Maternity,Family Floater
+CUST0052,50,Female,Married,Retired,High,Postgraduate,Semi-Urban,4,Cancer,No,Yes,No,Active,Low,Rarely,1956545,16687,15,Hospital Cash,Family Floater
+CUST0053,59,Female,Single,Student,High,Graduate,Semi-Urban,3,Diabetes,No,No,No,Sedentary,Medium,Frequent,620877,28630,25,Hospital Cash,Senior Citizen
+CUST0054,26,Female,Divorced,Self-Employed,Medium,High School,Semi-Urban,3,Asthma,Yes,No,Yes,Moderate,Low,Often,414064,24070,20,Critical Illness,Critical Illness
+CUST0055,26,Male,Divorced,Student,High,Doctorate,Urban,1,Asthma,No,Yes,No,Active,Medium,Frequent,1265393,30033,20,Critical Illness,Senior Citizen
+CUST0056,50,Female,Married,Self-Employed,Low,High School,Semi-Urban,5,Hypertension,Yes,Yes,No,Active,Medium,Often,1346276,35603,25,Hospital Cash,Individual
+CUST0057,29,Female,Widowed,Salaried,High,High School,Semi-Urban,4,Heart Disease,No,No,No,Moderate,High,Rarely,880730,21732,25,Hospital Cash,Family Floater
+CUST0058,35,Male,Married,Self-Employed,Medium,Doctorate,Semi-Urban,2,Diabetes,Yes,Yes,Yes,Moderate,Medium,Frequent,862991,41513,10,None,Family Floater
+CUST0059,55,Female,Divorced,Salaried,High,Doctorate,Urban,4,Asthma,No,Yes,Yes,Sedentary,High,Rarely,733617,36933,25,None,Family Floater
+CUST0060,22,Male,Divorced,Retired,Medium,Graduate,Semi-Urban,5,Heart Disease,No,No,No,Moderate,High,Often,1944351,19960,15,Hospital Cash,Critical Illness
+CUST0061,24,Female,Single,Self-Employed,Medium,Postgraduate,Rural,3,Cancer,No,Yes,Yes,Sedentary,Low,Rarely,294127,37498,20,Hospital Cash,Critical Illness
+CUST0062,61,Female,Divorced,Salaried,Low,Postgraduate,Urban,3,Heart Disease,No,Yes,Yes,Sedentary,Low,Frequent,488621,26012,15,Hospital Cash,Senior Citizen
+CUST0063,33,Male,Single,Student,Medium,High School,Semi-Urban,3,Heart Disease,No,Yes,Yes,Sedentary,High,Frequent,1229057,12726,20,Accidental Cover,Family Floater
+CUST0064,43,Male,Divorced,Salaried,Low,Graduate,Semi-Urban,6,Asthma,Yes,No,Yes,Active,Low,Rarely,1694071,34155,15,Maternity,Critical Illness
+CUST0065,24,Female,Divorced,Salaried,Medium,Doctorate,Rural,5,Cancer,No,Yes,Yes,Moderate,Low,Rarely,869703,40573,15,Maternity,Critical Illness
+CUST0066,63,Female,Married,Self-Employed,Medium,Doctorate,Urban,4,Heart Disease,Yes,Yes,Yes,Sedentary,High,Frequent,604655,6823,20,Maternity,Senior Citizen
+CUST0067,32,Female,Single,Retired,Medium,Postgraduate,Semi-Urban,3,Hypertension,No,No,No,Sedentary,Medium,Often,618925,38844,15,Maternity,Critical Illness
+CUST0068,41,Male,Widowed,Salaried,Low,Postgraduate,Urban,3,None,No,Yes,No,Active,Medium,Rarely,1191683,36102,10,Accidental Cover,Critical Illness
+CUST0069,35,Male,Single,Salaried,Medium,Postgraduate,Semi-Urban,4,Cancer,Yes,Yes,No,Sedentary,Medium,Frequent,1129870,35764,25,Critical Illness,Individual
+CUST0070,58,Female,Married,Salaried,Low,Graduate,Rural,2,Diabetes,No,No,No,Active,Medium,Rarely,1764351,35319,20,Hospital Cash,Individual
+CUST0071,40,Male,Widowed,Self-Employed,Medium,High School,Rural,3,None,No,Yes,No,Active,Medium,Frequent,1419147,21059,5,None,Family Floater
+CUST0072,52,Female,Single,Salaried,Low,High School,Semi-Urban,1,Cancer,No,Yes,Yes,Active,Medium,Often,871291,5576,5,Critical Illness,Individual
+CUST0073,18,Male,Married,Student,Low,Postgraduate,Urban,6,Hypertension,No,Yes,Yes,Sedentary,Medium,Frequent,560804,44465,15,Accidental Cover,Critical Illness
+CUST0074,22,Male,Single,Self-Employed,Low,High School,Semi-Urban,4,Cancer,Yes,Yes,No,Active,Low,Rarely,430724,34963,10,None,Individual
+CUST0075,23,Female,Widowed,Salaried,Medium,Doctorate,Semi-Urban,6,Cancer,Yes,No,No,Moderate,Low,Rarely,1122013,47906,15,Maternity,Family Floater
+CUST0076,60,Female,Single,Business,Medium,High School,Urban,2,Cancer,Yes,Yes,Yes,Active,Low,Often,1110010,35140,5,Accidental Cover,Individual
+CUST0077,60,Male,Divorced,Salaried,Medium,High School,Rural,6,Asthma,No,Yes,Yes,Active,Low,Frequent,1041616,42276,25,Maternity,Critical Illness
+CUST0078,40,Female,Single,Salaried,High,Postgraduate,Semi-Urban,6,Diabetes,No,No,No,Active,Medium,Rarely,221117,40897,25,Accidental Cover,Individual
+CUST0079,19,Male,Widowed,Retired,Low,High School,Urban,1,Heart Disease,Yes,No,No,Active,Medium,Frequent,1251385,16208,15,Hospital Cash,Individual
+CUST0080,39,Female,Married,Self-Employed,High,Postgraduate,Semi-Urban,4,Hypertension,Yes,No,No,Active,Medium,Frequent,302213,17933,20,Accidental Cover,Critical Illness
+CUST0081,43,Female,Widowed,Business,Medium,High School,Urban,6,None,Yes,No,Yes,Sedentary,Medium,Rarely,1565578,45189,10,None,Individual
+CUST0082,53,Female,Married,Salaried,Medium,Graduate,Urban,4,Cancer,Yes,No,No,Moderate,Low,Often,1307634,26374,5,Critical Illness,Family Floater
+CUST0083,55,Female,Married,Salaried,Low,Graduate,Urban,5,None,No,Yes,No,Active,Medium,Often,1096565,29862,20,Accidental Cover,Individual
+CUST0084,68,Female,Widowed,Salaried,Low,Postgraduate,Urban,3,Asthma,Yes,Yes,Yes,Sedentary,High,Rarely,1700257,38536,5,Critical Illness,Senior Citizen
+CUST0085,42,Female,Single,Business,Medium,Graduate,Semi-Urban,6,Heart Disease,No,Yes,No,Moderate,Low,Rarely,769849,19667,25,Hospital Cash,Senior Citizen
+CUST0086,24,Male,Married,Retired,High,Postgraduate,Rural,5,Asthma,No,No,No,Moderate,High,Frequent,1585198,17475,5,Hospital Cash,Individual
+CUST0087,67,Male,Divorced,Salaried,Low,High School,Semi-Urban,3,Hypertension,Yes,No,Yes,Sedentary,Medium,Frequent,902486,48184,20,Accidental Cover,Individual
+CUST0088,24,Male,Divorced,Salaried,High,Postgraduate,Semi-Urban,5,Heart Disease,Yes,No,Yes,Active,Low,Frequent,1643102,6851,10,Critical Illness,Critical Illness
+CUST0089,18,Male,Widowed,Student,High,Postgraduate,Urban,5,Cancer,Yes,Yes,Yes,Sedentary,Low,Often,1192133,44605,15,Critical Illness,Critical Illness
+CUST0090,51,Female,Widowed,Retired,High,Doctorate,Semi-Urban,6,Heart Disease,Yes,No,Yes,Active,Low,Frequent,1912554,47039,10,None,Critical Illness
+CUST0091,24,Female,Single,Student,Low,High School,Rural,2,Asthma,No,No,No,Moderate,Medium,Often,532780,36451,25,Accidental Cover,Family Floater
+CUST0092,48,Male,Divorced,Self-Employed,High,Graduate,Semi-Urban,6,Hypertension,Yes,Yes,No,Active,High,Rarely,557727,41757,10,None,Senior Citizen
+CUST0093,58,Female,Single,Student,Low,Graduate,Urban,1,Heart Disease,No,Yes,Yes,Moderate,Low,Rarely,1085675,48062,20,Maternity,Family Floater
+CUST0094,37,Female,Single,Business,Medium,High School,Semi-Urban,4,Cancer,Yes,Yes,Yes,Moderate,Low,Often,1800365,47351,5,Critical Illness,Critical Illness
+CUST0095,66,Female,Single,Retired,Medium,Doctorate,Semi-Urban,6,Diabetes,No,No,No,Sedentary,High,Often,838610,18166,20,Maternity,Critical Illness
+CUST0096,45,Female,Single,Student,High,Graduate,Rural,3,Hypertension,No,Yes,No,Active,High,Frequent,1770695,20641,15,Accidental Cover,Critical Illness
+CUST0097,32,Male,Married,Business,Medium,Postgraduate,Semi-Urban,4,Asthma,No,No,No,Moderate,Medium,Frequent,1886251,5484,20,Accidental Cover,Senior Citizen
+CUST0098,48,Female,Single,Retired,Medium,Graduate,Semi-Urban,5,Diabetes,Yes,No,No,Sedentary,Low,Often,1214373,19819,15,Critical Illness,Senior Citizen
+CUST0099,37,Male,Single,Retired,High,Doctorate,Semi-Urban,2,Diabetes,Yes,Yes,Yes,Active,Low,Often,256521,39758,15,Maternity,Senior Citizen
+CUST0100,59,Male,Single,Retired,High,Graduate,Rural,4,Cancer,Yes,Yes,Yes,Active,High,Frequent,1398527,14711,15,Hospital Cash,Critical Illness
+CUST0101,23,Female,Divorced,Self-Employed,Medium,Doctorate,Urban,2,Heart Disease,No,No,No,Sedentary,Low,Rarely,1647222,23584,10,Maternity,Family Floater
+CUST0102,44,Female,Single,Student,High,High School,Semi-Urban,5,Asthma,Yes,Yes,No,Active,High,Frequent,1129434,19414,5,Hospital Cash,Family Floater
+CUST0103,57,Male,Married,Student,Low,Postgraduate,Urban,3,Cancer,No,No,Yes,Moderate,Medium,Frequent,657672,36104,5,Accidental Cover,Family Floater
+CUST0104,60,Female,Single,Business,Medium,Graduate,Urban,3,Heart Disease,Yes,No,Yes,Active,Medium,Rarely,723736,29991,15,Hospital Cash,Family Floater
+CUST0105,70,Female,Divorced,Student,Low,High School,Urban,1,Heart Disease,Yes,Yes,No,Active,High,Often,1131215,27251,20,Maternity,Family Floater
+CUST0106,22,Female,Single,Salaried,High,Graduate,Rural,5,Hypertension,Yes,No,Yes,Sedentary,Low,Often,1283227,7970,15,Hospital Cash,Family Floater
+CUST0107,26,Female,Widowed,Self-Employed,High,Graduate,Urban,4,None,No,Yes,No,Moderate,Medium,Rarely,1141140,6293,20,Maternity,Family Floater
+CUST0108,49,Male,Divorced,Retired,Low,High School,Semi-Urban,1,Hypertension,No,No,Yes,Sedentary,Low,Frequent,752364,10978,10,Hospital Cash,Senior Citizen
+CUST0109,30,Male,Married,Business,Low,Postgraduate,Semi-Urban,6,None,Yes,No,Yes,Sedentary,High,Often,1216258,8239,25,Hospital Cash,Critical Illness
+CUST0110,51,Female,Single,Business,High,High School,Semi-Urban,5,Heart Disease,No,Yes,Yes,Active,Low,Frequent,277271,5505,10,Critical Illness,Individual
+CUST0111,46,Male,Widowed,Retired,High,High School,Semi-Urban,3,Hypertension,Yes,No,Yes,Moderate,High,Often,1586893,31002,5,Accidental Cover,Individual
+CUST0112,40,Female,Single,Self-Employed,Medium,Postgraduate,Urban,2,Diabetes,No,No,Yes,Sedentary,Low,Frequent,1879389,8578,25,Hospital Cash,Senior Citizen
+CUST0113,37,Female,Married,Salaried,Medium,Doctorate,Urban,4,Diabetes,Yes,Yes,Yes,Active,Low,Often,872263,44166,10,Accidental Cover,Individual
+CUST0114,46,Female,Widowed,Salaried,High,Doctorate,Urban,1,Hypertension,Yes,Yes,Yes,Moderate,Low,Frequent,1209259,29887,10,None,Family Floater
+CUST0115,47,Female,Divorced,Student,High,High School,Rural,3,None,No,No,Yes,Moderate,Low,Rarely,1953298,16233,15,Critical Illness,Family Floater
+CUST0116,57,Male,Widowed,Salaried,Medium,Doctorate,Semi-Urban,5,Cancer,No,No,Yes,Sedentary,Low,Frequent,960367,38428,20,Maternity,Critical Illness
+CUST0117,32,Female,Married,Student,High,Graduate,Semi-Urban,5,Cancer,No,Yes,Yes,Active,High,Often,1235826,8144,20,Hospital Cash,Family Floater
+CUST0118,19,Male,Divorced,Salaried,Medium,Graduate,Semi-Urban,1,None,No,Yes,Yes,Active,High,Rarely,430413,35511,10,Accidental Cover,Critical Illness
+CUST0119,45,Male,Divorced,Business,Medium,Graduate,Semi-Urban,1,Diabetes,Yes,Yes,No,Active,High,Often,655816,34636,15,Critical Illness,Family Floater
+CUST0120,20,Female,Divorced,Self-Employed,Low,Postgraduate,Urban,6,Diabetes,No,Yes,No,Sedentary,Medium,Often,494963,16166,10,Accidental Cover,Senior Citizen
+CUST0121,34,Female,Single,Business,Medium,Postgraduate,Semi-Urban,2,Diabetes,Yes,No,Yes,Active,Medium,Often,1237339,35066,20,Critical Illness,Critical Illness
+CUST0122,52,Male,Married,Business,Medium,High School,Urban,6,Cancer,Yes,Yes,Yes,Moderate,Low,Often,353996,47770,5,None,Family Floater
+CUST0123,18,Female,Widowed,Self-Employed,Low,Graduate,Semi-Urban,3,Heart Disease,Yes,Yes,Yes,Sedentary,High,Frequent,1053194,19081,10,Accidental Cover,Senior Citizen
+CUST0124,36,Male,Divorced,Salaried,Low,Graduate,Rural,2,Asthma,Yes,No,No,Moderate,Low,Often,1020170,42883,5,Critical Illness,Individual
+CUST0125,67,Female,Divorced,Business,Low,High School,Semi-Urban,3,Hypertension,No,Yes,Yes,Active,Medium,Frequent,614586,10783,25,Critical Illness,Critical Illness
+CUST0126,49,Male,Widowed,Student,High,Postgraduate,Urban,4,Heart Disease,Yes,Yes,Yes,Active,Low,Rarely,1317581,45709,5,Critical Illness,Individual
+CUST0127,53,Male,Married,Self-Employed,High,Graduate,Urban,1,Heart Disease,Yes,Yes,No,Moderate,Low,Frequent,896335,25920,15,Hospital Cash,Family Floater
+CUST0128,55,Female,Married,Student,Medium,Graduate,Rural,6,Diabetes,No,No,Yes,Active,High,Frequent,1606294,47695,20,Accidental Cover,Critical Illness
+CUST0129,22,Male,Single,Self-Employed,Medium,Graduate,Rural,2,Hypertension,Yes,No,No,Sedentary,Low,Frequent,1531981,43960,20,Hospital Cash,Family Floater
+CUST0130,55,Female,Married,Self-Employed,Medium,Postgraduate,Urban,1,Cancer,No,No,Yes,Sedentary,Low,Rarely,704253,35877,5,Accidental Cover,Individual
+CUST0131,53,Female,Divorced,Business,Medium,Doctorate,Urban,1,Diabetes,Yes,Yes,Yes,Active,Low,Rarely,296551,32585,5,Accidental Cover,Critical Illness
+CUST0132,24,Male,Divorced,Business,Low,Graduate,Semi-Urban,1,Heart Disease,No,Yes,No,Active,Low,Rarely,461466,41052,15,Maternity,Family Floater
+CUST0133,67,Male,Married,Retired,High,High School,Rural,3,Cancer,Yes,Yes,Yes,Sedentary,High,Rarely,1865614,43830,5,Critical Illness,Critical Illness
+CUST0134,23,Female,Married,Retired,Low,High School,Rural,3,Asthma,Yes,Yes,Yes,Moderate,Low,Rarely,292580,36933,25,Critical Illness,Senior Citizen
+CUST0135,49,Male,Widowed,Retired,Low,Postgraduate,Semi-Urban,4,Diabetes,Yes,No,No,Sedentary,High,Frequent,1450330,48684,10,Maternity,Family Floater
+CUST0136,28,Male,Married,Retired,Medium,Doctorate,Urban,6,Asthma,Yes,Yes,Yes,Sedentary,Medium,Often,580245,29825,25,Hospital Cash,Critical Illness
+CUST0137,29,Female,Married,Business,High,High School,Rural,2,Diabetes,Yes,No,No,Moderate,Low,Rarely,1650948,26910,10,Maternity,Family Floater
+CUST0138,21,Female,Divorced,Business,Medium,Graduate,Rural,4,Diabetes,No,No,Yes,Moderate,Low,Frequent,1591738,15218,10,Critical Illness,Family Floater
+CUST0139,45,Female,Divorced,Salaried,High,Doctorate,Rural,3,Heart Disease,Yes,No,No,Active,High,Frequent,1734279,9431,5,Critical Illness,Family Floater
+CUST0140,26,Female,Single,Student,Medium,Graduate,Rural,3,Heart Disease,Yes,No,Yes,Moderate,Medium,Often,1132444,17321,20,None,Individual
+CUST0141,62,Female,Single,Salaried,High,Postgraduate,Urban,2,Diabetes,Yes,Yes,Yes,Moderate,High,Frequent,1665551,12470,10,Hospital Cash,Critical Illness
+CUST0142,62,Female,Single,Business,Low,Graduate,Urban,6,Cancer,Yes,No,No,Sedentary,Low,Rarely,766480,5197,5,None,Family Floater
+CUST0143,48,Female,Divorced,Salaried,Low,Postgraduate,Semi-Urban,3,Cancer,No,No,No,Sedentary,Medium,Rarely,1417627,9499,5,Maternity,Critical Illness
+CUST0144,56,Female,Widowed,Salaried,Medium,Graduate,Semi-Urban,5,None,Yes,Yes,Yes,Moderate,Medium,Often,1924794,5527,15,Critical Illness,Family Floater
+CUST0145,69,Female,Widowed,Business,High,Graduate,Urban,3,Asthma,No,No,No,Active,Low,Rarely,772241,19146,20,Accidental Cover,Critical Illness
+CUST0146,43,Male,Widowed,Retired,Medium,Doctorate,Semi-Urban,4,Diabetes,No,No,Yes,Moderate,High,Rarely,988879,25744,5,None,Individual
+CUST0147,21,Male,Married,Self-Employed,Medium,Postgraduate,Rural,3,Cancer,Yes,No,Yes,Moderate,Low,Rarely,1233196,24319,5,Accidental Cover,Senior Citizen
+CUST0148,70,Male,Divorced,Student,Low,Postgraduate,Urban,1,None,Yes,Yes,Yes,Active,Medium,Frequent,1018449,8650,20,Critical Illness,Individual
+CUST0149,28,Female,Widowed,Student,Medium,Doctorate,Semi-Urban,5,None,Yes,No,Yes,Sedentary,High,Rarely,1951674,6733,15,Critical Illness,Senior Citizen
+CUST0150,50,Female,Single,Business,Medium,Doctorate,Semi-Urban,5,Cancer,No,Yes,No,Active,Low,Frequent,1679057,43630,10,Hospital Cash,Individual
+CUST0151,20,Male,Married,Salaried,Low,Postgraduate,Rural,6,Hypertension,Yes,Yes,Yes,Sedentary,High,Often,357821,40587,5,Critical Illness,Individual
+CUST0152,45,Male,Single,Salaried,High,Doctorate,Urban,1,Diabetes,Yes,No,No,Sedentary,Low,Frequent,1241853,33252,25,Hospital Cash,Family Floater
+CUST0153,50,Male,Divorced,Salaried,Low,Doctorate,Semi-Urban,3,Asthma,No,Yes,Yes,Moderate,High,Often,467500,41032,25,Critical Illness,Senior Citizen
+CUST0154,33,Female,Married,Retired,High,Postgraduate,Urban,5,Hypertension,No,No,No,Moderate,High,Frequent,673922,21630,25,Hospital Cash,Individual
+CUST0155,18,Female,Divorced,Student,Medium,Graduate,Rural,3,Asthma,Yes,Yes,No,Sedentary,Medium,Rarely,1219329,13885,20,Maternity,Family Floater
+CUST0156,34,Male,Single,Retired,High,Postgraduate,Urban,4,Asthma,Yes,No,Yes,Active,Medium,Frequent,903373,30699,20,Maternity,Senior Citizen
+CUST0157,23,Male,Married,Retired,Low,High School,Rural,6,Asthma,Yes,Yes,Yes,Sedentary,Low,Often,786060,46909,20,None,Senior Citizen
+CUST0158,25,Female,Married,Business,Medium,High School,Urban,6,Hypertension,No,Yes,Yes,Sedentary,Low,Rarely,1252026,29068,10,None,Senior Citizen
+CUST0159,31,Male,Divorced,Salaried,Medium,High School,Rural,5,Heart Disease,Yes,Yes,No,Sedentary,High,Rarely,1523020,21147,15,Maternity,Family Floater
+CUST0160,46,Male,Divorced,Self-Employed,Low,Doctorate,Urban,6,Asthma,Yes,No,Yes,Sedentary,Low,Rarely,1323454,13007,15,Maternity,Critical Illness
+CUST0161,42,Female,Widowed,Retired,High,Doctorate,Urban,2,Hypertension,Yes,No,No,Sedentary,Low,Often,538456,22286,10,Accidental Cover,Family Floater
+CUST0162,37,Male,Divorced,Retired,High,Doctorate,Urban,6,Hypertension,No,Yes,No,Sedentary,Medium,Frequent,769511,40528,15,Critical Illness,Senior Citizen
+CUST0163,51,Male,Single,Salaried,Low,Postgraduate,Urban,2,Diabetes,No,No,Yes,Active,High,Frequent,926009,17925,15,Hospital Cash,Critical Illness
+CUST0164,40,Female,Married,Self-Employed,Medium,Graduate,Semi-Urban,4,Heart Disease,Yes,No,No,Sedentary,High,Frequent,1040445,29936,5,Hospital Cash,Senior Citizen
+CUST0165,18,Female,Divorced,Self-Employed,Medium,Doctorate,Rural,6,Heart Disease,No,No,No,Moderate,High,Often,1060390,16868,25,Hospital Cash,Individual
+CUST0166,68,Male,Divorced,Business,Low,Doctorate,Rural,1,Cancer,Yes,Yes,No,Moderate,Medium,Rarely,1965849,44668,20,Hospital Cash,Critical Illness
+CUST0167,29,Female,Single,Business,Low,Graduate,Rural,6,None,No,Yes,Yes,Active,Low,Rarely,1256956,38799,25,Accidental Cover,Critical Illness
+CUST0168,68,Male,Single,Student,Medium,Graduate,Urban,4,Asthma,No,Yes,No,Moderate,Low,Rarely,499180,30041,25,Accidental Cover,Family Floater
+CUST0169,23,Male,Divorced,Salaried,High,Postgraduate,Semi-Urban,3,Diabetes,Yes,Yes,No,Active,Medium,Rarely,1298984,16467,25,None,Family Floater
+CUST0170,18,Female,Single,Salaried,High,High School,Semi-Urban,4,Heart Disease,No,No,No,Moderate,High,Frequent,1014451,6777,10,None,Critical Illness
+CUST0171,57,Male,Single,Salaried,Low,Doctorate,Rural,1,None,No,Yes,No,Active,Low,Rarely,989175,34629,25,Critical Illness,Senior Citizen
+CUST0172,52,Female,Single,Salaried,Low,Postgraduate,Semi-Urban,4,None,No,Yes,No,Active,High,Often,299103,48225,10,Critical Illness,Family Floater
+CUST0173,36,Female,Widowed,Salaried,High,Doctorate,Urban,1,Diabetes,No,Yes,Yes,Sedentary,Low,Often,580564,10763,15,Maternity,Individual
+CUST0174,49,Female,Divorced,Business,Low,Graduate,Rural,5,Cancer,No,No,Yes,Moderate,Medium,Rarely,912332,25948,20,Hospital Cash,Family Floater
+CUST0175,38,Male,Widowed,Self-Employed,Low,Postgraduate,Urban,1,Asthma,Yes,No,No,Active,Low,Frequent,1503077,24639,25,Maternity,Senior Citizen
+CUST0176,59,Female,Divorced,Self-Employed,High,High School,Urban,6,Cancer,Yes,Yes,No,Sedentary,Low,Rarely,902018,39698,20,Hospital Cash,Individual
+CUST0177,43,Female,Married,Self-Employed,Medium,Graduate,Urban,5,Heart Disease,No,No,No,Moderate,Medium,Rarely,843457,10388,15,None,Senior Citizen
+CUST0178,59,Female,Single,Salaried,Low,Postgraduate,Rural,4,Cancer,No,No,No,Sedentary,High,Frequent,761285,37232,10,Accidental Cover,Family Floater
+CUST0179,63,Male,Widowed,Student,Low,High School,Urban,6,Asthma,Yes,Yes,No,Moderate,High,Rarely,223130,24360,25,Maternity,Critical Illness
+CUST0180,63,Male,Widowed,Salaried,Low,Graduate,Semi-Urban,4,Diabetes,No,Yes,No,Active,Low,Often,1141575,33023,10,Critical Illness,Senior Citizen
+CUST0181,36,Male,Married,Salaried,Low,Doctorate,Rural,2,Diabetes,No,No,Yes,Active,Medium,Rarely,1614939,36269,10,Maternity,Critical Illness
+CUST0182,18,Male,Single,Salaried,High,Graduate,Urban,6,Cancer,No,No,Yes,Moderate,High,Frequent,636887,29175,25,Accidental Cover,Individual
+CUST0183,57,Female,Married,Self-Employed,High,Postgraduate,Semi-Urban,6,Diabetes,No,Yes,Yes,Active,High,Often,1884130,44034,15,Hospital Cash,Individual
+CUST0184,32,Male,Divorced,Student,Low,Postgraduate,Rural,6,Diabetes,No,No,No,Active,High,Rarely,701859,21045,25,Maternity,Senior Citizen
+CUST0185,52,Female,Single,Retired,Medium,Doctorate,Semi-Urban,2,Heart Disease,No,Yes,Yes,Moderate,High,Often,1446453,42808,20,None,Senior Citizen
+CUST0186,22,Male,Married,Business,Medium,Postgraduate,Semi-Urban,6,Diabetes,No,Yes,No,Sedentary,Medium,Frequent,892474,30869,5,None,Individual
+CUST0187,64,Female,Divorced,Salaried,Low,Graduate,Urban,1,Hypertension,Yes,Yes,No,Active,High,Frequent,1307684,7122,25,Maternity,Critical Illness
+CUST0188,50,Male,Widowed,Salaried,High,Graduate,Urban,2,Diabetes,Yes,Yes,Yes,Moderate,Medium,Frequent,1038777,21845,5,Maternity,Senior Citizen
+CUST0189,53,Female,Divorced,Student,Low,Doctorate,Rural,6,None,No,No,Yes,Sedentary,Medium,Often,1031379,23483,5,Critical Illness,Family Floater
+CUST0190,22,Male,Single,Retired,Medium,Doctorate,Urban,6,Hypertension,Yes,No,Yes,Active,Low,Frequent,1539982,13813,10,Critical Illness,Senior Citizen
+CUST0191,33,Male,Married,Self-Employed,High,High School,Urban,3,None,No,Yes,Yes,Moderate,High,Frequent,977620,24868,5,Accidental Cover,Critical Illness
+CUST0192,69,Female,Single,Student,Low,Postgraduate,Semi-Urban,5,Heart Disease,No,No,No,Active,Low,Frequent,1070998,18126,15,Critical Illness,Senior Citizen
+CUST0193,70,Male,Married,Salaried,High,High School,Rural,2,Cancer,Yes,No,Yes,Active,Low,Rarely,383414,5546,5,Accidental Cover,Individual
+CUST0194,35,Female,Single,Student,Low,High School,Semi-Urban,1,Cancer,No,No,Yes,Active,Low,Frequent,440797,7505,20,Critical Illness,Senior Citizen
+CUST0195,22,Female,Single,Self-Employed,High,Graduate,Semi-Urban,4,Diabetes,No,No,No,Active,Low,Often,908315,23063,25,Maternity,Critical Illness
+CUST0196,36,Male,Divorced,Business,Low,Graduate,Rural,4,Cancer,Yes,Yes,Yes,Active,Low,Often,1796509,11050,10,None,Individual
+CUST0197,20,Male,Single,Retired,Medium,Doctorate,Urban,6,Asthma,Yes,No,Yes,Moderate,Medium,Rarely,540768,5477,10,Hospital Cash,Individual
+CUST0198,27,Female,Single,Business,High,High School,Semi-Urban,4,Diabetes,No,No,No,Active,Medium,Rarely,1355895,30272,20,Hospital Cash,Senior Citizen
+CUST0199,68,Female,Single,Self-Employed,Low,High School,Rural,4,None,No,Yes,No,Active,Low,Frequent,725941,10443,5,Accidental Cover,Critical Illness
+CUST0200,66,Male,Single,Salaried,Low,Postgraduate,Urban,5,Asthma,No,No,Yes,Sedentary,Low,Rarely,1195022,36455,5,Maternity,Senior Citizen

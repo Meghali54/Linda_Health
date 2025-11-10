@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+itsdangerous
+Flask
+google-generativeai
+SpeechRecognition
+gTTS
