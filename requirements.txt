@@ -8,3 +8,4 @@ Flask
 google-generativeai
 SpeechRecognition
 gTTS
+gunicorn
